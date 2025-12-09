@@ -28,7 +28,7 @@ This project implements a **Sentiment Analysis system** to classify text into **
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/sentiment-analysis.git
+git clone https://github.com/<Tarun-428>/sentiment-analysis.git
 cd sentiment-analysis
 ```
 
