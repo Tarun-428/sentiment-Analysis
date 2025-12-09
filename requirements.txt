@@ -1,0 +1,10 @@
+streamlit
+pandas
+matplotlib
+numpy
+nltk
+transformers
+torch
+wordcloud
+psycopg2-binary
+python-dateutil
